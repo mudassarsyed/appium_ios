@@ -17,5 +17,9 @@
     "iPhone_7_Plus": {
       "device": "iPhone 7 Plus"
     }
+    "iPhone_11": {
+      "device": "iPhone 11 Pro",
+      "os_version": "13"
+    }
   }
 }
